@@ -1,6 +1,6 @@
 # Infotech_app
 
-<img src="assets/images/course.jpg" height="900">
+<img src="assets/images/course.jpg" height="400">
 
 A new Flutter project.
 
